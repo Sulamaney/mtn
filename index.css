@@ -1,0 +1,124 @@
+.ff {
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 19px;
+    color: #595959;
+}
+.data {
+    font-size: 100%;
+    font-size: 60px;
+    font-weight: 900;
+    margin-left: 100px;
+    line-height: 200px;
+}
+.dat {
+    text-align: center;
+}
+.for {
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 48px;
+    color: black;
+}
+.img {
+    width: 300px;
+    border-radius: 20px;
+}
+.dis {
+    display: inline-block;
+    padding-right: 8px;
+}
+.dele {
+    margin-left: 15px;
+}
+.aminu {
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.is {
+    display: inline-block;
+    margin-right: 20px;
+    padding-right: 8px;
+    border-radius: 20px;
+    border: ridge;
+    border-width: 1px;
+    padding-left: 20px;
+    width: 280px;
+}
+.im {
+    width: 300px;
+}
+.food {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+}
+.ali {
+    font-size: 12px;
+    color: rgb(255, 183, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fg {
+    border-radius: 100px;
+    margin-top: 15px;
+    background-color: #FFCC00;
+    border: none;
+    padding: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.cdn {
+    color: #F7C300;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.cn {
+    color: #F7C300;
+    text-align: center;
+}
+.viva {
+    font-size: 12px;
+    font-family: cursive;
+    line-height: 19px;
+    font-weight: 400;
+    color: #5b5b5b;
+    text-align: center;
+}
+.coroco {
+    color: white;
+}
+.hg {
+    background-color: black;
+    border-color: white;
+    border-width: 1px;
+    border-style: groove;
+    border-radius: 5px;
+    padding: 10px;
+}
+.ojoo {
+    color: #F7C300;
+    font-size: 25px;
+    margin-right: 20px;
+}
+.sup {
+    font-size: 15px;
+    line-height: 0px;
+}
+.sub {
+    font-size: 14px;
+
+}
+.tj {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+}
+.para {
+    font-size: 14px;
+    line-height: 15px;
+}
+.gof {
+    margin-left: 100px;
+}
